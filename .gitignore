@@ -1,0 +1,7 @@
+venv/
+*.npy
+*.pkl
+*.pt
+*.db
+__pycache__/
+.DS_Store
