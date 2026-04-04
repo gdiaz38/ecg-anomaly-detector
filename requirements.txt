@@ -1,1 +1,11 @@
-pandas numpy scikit-learn torch fastapi uvicorn streamlit plotly shap joblib kagglehub
+pandas 
+numpy 
+scikit-learn
+torch 
+fastapi 
+uvicorn 
+streamlit 
+plotly
+shap 
+joblib 
+kagglehub
