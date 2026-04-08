@@ -1,7 +1,18 @@
 # 🫀 FDA-Grade ECG Anomaly Detector
 
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-FF4B4B?style=for-the-badge)](https://ecg-anomaly-detector-gdiaz38.streamlit.app/)
+
 Two-stage cardiac anomaly detection system trained on real MIT-BIH ECG data.
 Built to reflect production requirements in regulated medical device environments.
+
+---
+
+## 🚀 Try It Live
+
+**[→ Open Live Dashboard](https://ecg-anomaly-detector-gdiaz38.streamlit.app/)**
+
+Analyze real ECG beats from the MIT-BIH dataset, inspect SHAP explanations,
+run batch analysis across 200 beats, and download the FDA-compliant audit log.
 
 ---
 
