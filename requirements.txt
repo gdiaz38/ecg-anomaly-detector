@@ -1,15 +1,12 @@
-pandas 
-numpy 
+pandas
+numpy
 scikit-learn
-torch 
-fastapi 
-uvicorn 
-streamlit 
+torch
+fastapi
+uvicorn
+streamlit
 plotly
-shap 
-joblib 
-<<<<<<< Updated upstream
+shap
+joblib
 kagglehub
-=======
-kagglehub
->>>>>>> Stashed changes
+
