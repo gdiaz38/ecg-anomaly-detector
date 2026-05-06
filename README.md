@@ -11,7 +11,7 @@ A two-stage unsupervised anomaly detection system for real-time ECG classificati
 
 ## 📊 Live Dashboard
 
-👉 **[View Live App](https://gdiaz38-ecg-anomaly-detector.streamlit.app)**
+👉 **[View Live App](https://ecg-anomaly-detector-gdiaz38.streamlit.app)**
 
 ---
 
