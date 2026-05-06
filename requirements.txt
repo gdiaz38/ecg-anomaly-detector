@@ -1,12 +1,8 @@
-pandas
-numpy
-scikit-learn
-torch
-fastapi
-uvicorn
 streamlit
+numpy
+pandas
 plotly
-shap
+torch
 joblib
-kagglehub
-
+scikit-learn
+shap

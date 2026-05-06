@@ -1,7 +1,9 @@
 venv/
-*.npy
-*.pkl
-*.pt
-*.db
-__pycache__/
 .DS_Store
+__pycache__/
+*.pyc
+.python-version
+*.db
+X_train_normal.npy
+training_results.png
+capacity_curves.png
